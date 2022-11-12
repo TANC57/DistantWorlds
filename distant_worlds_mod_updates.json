@@ -1,10 +1,10 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/distant-worlds",
      "1.18.2": {
-        "0.0.9": "The first open beta version of the fully updated Distant Worlds mod.\nLet's start our journey!"
+        "1.0.0": "The first open beta version of the fully updated Distant Worlds mod.\nLet's start our journey!"
     },
     "promos": {
-        "1.18.2-latest": "0.0.9",
-        "1.18.2-recommended": "0.0.9"
+        "1.18.2-latest": "1.0.0",
+        "1.18.2-recommended": "1.0.0"
     }
 }
