@@ -9,7 +9,7 @@
         "1.0.5": "Books were edited and supplemented\nAdded configuration file\nRemoved disableBookGranting gamerule\nDimension generation has been significantly improved and changed\nAdded generation of huge culafite mushrooms and their blocks\nMechanisms for using geckolib and curios capabilities have been improved\nImproved the quality of geckolib models and animations\nAdded rendering of curios accessory models\nAdded interactive description to some items\nImproved mechanics of player interaction with some GUI\nChanged mobs behavior and spawning\nAdded ability to change the behavior of tamed mobs: follow, wander, stay\nBaby salmorans will be tamed by the nearest player in a small radius after hatching\nUnarmored narhorns can be mounted\nAdded culafite mushroom on a stick\nAdded garsale couches\nAdded wiltum couches\nImproved mechanics of using bonemeal\nCulafite mushrooms can be grown into a huge version with bonemeal\nReturn ring can teleport nearby tamed entities to a specified point\nAdded mod potions brewing recipes\n[Bugfix] Now bookshelves behind the solid block will not be counted by the table\n[Bugfix] Partially fixed vine generation\n[Bugfix] Fixed garsale tree generation\nOther minor changes"
     },
     "promos": {
-        "1.18.2-latest": "1.0.4",
+        "1.18.2-latest": "1.0.5",
         "1.18.2-recommended": "1.0.4"
     }
 }
